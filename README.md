@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/lmfink/lab6_repo.svg?branch=master)](https://travis-ci.org/lmfink/lab6_repo)
